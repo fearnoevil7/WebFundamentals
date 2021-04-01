@@ -1,0 +1,247 @@
+*{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    /* outline: 2px dotted fuchsia;; */
+}
+.body{
+    display: inline-block;
+}
+.div{
+    display: inline-block;
+}
+.container{
+    width: 950px;
+    height: 1000px;
+    background-color: silver;
+}
+.top{
+    width: 950px;
+    height: 50px;
+    background-color: black;
+    border-radius: 3px;
+}
+.icon1{
+    display: inline-block;
+    margin: 10px 0px 0px 30px;
+}
+p.t{
+    display: inline-block;
+    font-size: 18pt;
+    color: white;
+}
+.navmenu ul li{
+    color: white;
+    display: inline-block;
+    margin: 0px 0px 0px 20px;
+    font-size: 10pt;
+    
+
+}
+.ariba{
+    width: 350px;
+    height: 50px;
+    display: inline-block;
+    background-color: #1e1917;
+}
+.navmenu{
+    display: inline-block;
+    margin: 0px 0px 0px 180px;
+}
+.middleTop{
+    width: 950px;
+    height: 310px;
+    background-color: #eaeaea;
+}
+.mainPic{
+    width: 400px;
+    height: 200px;
+    display: inline-block;
+    margin: 40px 0px 0px 60px;
+}
+.hOwYc{
+    display: inline-block;
+    width: 425px;
+    vertical-align: top;
+}
+h1{
+    display: inline-block;
+    font-weight: lighter;
+    margin: 40px 0px 40px 20px;
+}
+.first{
+    display: inline-block;
+    margin: 0px 0px 0px 20px;
+}
+.lM{
+    font-size: 15pt;
+    width: 150px;
+    height: 30px;
+    color: white;
+    background-color: black;
+    margin: 25px 0px 0px 270px;
+    border-radius: 5px;
+    border-style: none;
+}
+.middleBottom{
+    width: 950px;
+    height: 530px;
+    background-color: #eaeaea;
+    border-top: 1px solid grey;
+}
+.mBlTop{
+    width: 670px;
+}
+.lilp{
+    width: 190px;
+    margin: 0px 0px 0px 20px;
+    display: inline-block;
+}
+.myP{
+    width: 200px;
+}
+h2{
+    display: inline-block;
+    margin: 0px 0px 40px 20px;
+    font-weight: lighter;
+    font-size: 12pt;
+}
+.icon2{
+    margin: 10px 0px 0px 0px;
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+}
+.icon3{
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+}
+.icon4{
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+}
+.mBleft{
+    height: 370px;
+    width: 670px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 25px 0px 0px 0px;
+}
+.mBlBottom{
+    width: 630px;
+    margin: 0px 0px 0px 20px;
+}
+h3{
+    margin: 30px 0px 25px 0px;
+    font-weight: lighter;
+    font-size: 18pt;
+}
+.mBright{
+    width: 270px;
+    height: 500px;
+    background-color: white;
+    display: inline-block;
+    margin: 25px 0px 0px 0px;
+    border-radius: 5px;
+}
+.wWwC{
+    width: 140px;
+    display: inline-block;
+    margin: 0px 0px 0px 20px;
+}
+.recycle{
+    display: inline-block;
+    vertical-align: top;
+    height: 200px;
+    width: 100px;
+    margin: 30px 0px 0px 0px;
+}
+.readmore{
+    margin: 30px 0px 0px 0px;
+    color: #eaeaea;
+}
+h4{
+    margin: 30px 0px 20px 0px;
+}
+.bottom{
+    background-color: black;
+    height: 320px;
+    width: 950px;
+    border-radius: 2px;
+}
+.contact{
+    display: inline-block;
+    width: 300px;
+    margin: 0px 0px 0px 20px;
+    color: white;
+}
+.support{
+    display: inline-block;
+    width: 300px;
+    color: white;
+}
+.contact ul li{
+    list-style-type: none;
+}
+.support ul li{
+    border-bottom: 1px solid grey;
+    list-style-type: none;
+}
+.wUtGiTwY{
+    display: inline-block;
+    vertical-align: top;
+    width: 250px;
+    margin: 0px 0px 0px 40px;
+    color: white;
+}
+h5{
+    font-weight: lighter;
+    font-size: 16pt;
+    margin: 30px 0px 30px 0px;
+}
+.last{
+    font-size: 16pt;
+    margin: 30px 0px 30px 0px;
+}
+.info{
+    margin: 20px 0px 0px 0px;
+}
+.nombre{
+    width: 110px;
+    height: 29px;
+    font-size: 10pt;
+    background-color: #262626;
+    color: #3c3d3a;
+    border-style: none;
+}
+.letra{
+    width: 110px;
+    height: 29px;
+    font-size: 10pt;
+    background-color: #262626;
+    color: #3c3d3a;
+    border-style: none;
+}
+.phone{
+    width: 160px;
+    margin: 20px 0px 0px 0px;
+    font-size: 10pt;
+    background-color: #262626;
+    color: #3c3d3a;
+    border-style: none;
+}
+.submit{
+    height: 27px;
+    width: 60px;
+    font-size: 12pt;
+    background-color: #262626;
+    color: #afafaf;
+    border-style: none;
+}
+.bob{
+    width: 950px;
+    height: 50px;
+    background-color: #eaeaea;
+    text-align: center;
+}
